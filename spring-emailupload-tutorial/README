@@ -1,0 +1,18 @@
+Description
+===========
+Sample application demonstrating how to integrate send email with attachments using Spring 3.1, SendGrid, and blueimp's jQuery-File-Upload plugin
+
+To read the whole guide, please see the original blog:
+
+"Email with Attachments via Spring and SendGrid"
+http://krams915.blogspot.com/2012/07/email-with-attachments-via-spring-and.html
+
+
+Building
+========
+Please visit http://krams915.blogspot.com/2012/07/email-with-attachments-via-spring-and_5148.html for full instructions
+
+
+Notes
+=====
+For more tutorials, please visit http://krams915.blogspot.com/
